@@ -1,12 +1,5 @@
 # AutoSpotify
 🍊Automates Spotify Account Creation and Liking! 🍊 Based on Selenium and Needs Edge Driver.
-
-
-Certainly! Here's the updated README.md file with your name (Hamza) and the GPL-3.0 license:
-
-```markdown
-# Spotify Account Generator
-
 This is a Python application for generating Spotify accounts using the Selenium web automation framework. It allows you to create multiple Spotify accounts with various options such as Headless mode and limited run count.
 
 ## Prerequisites
@@ -50,6 +43,3 @@ This application is created by Hamza.
 ## License
 
 This project is licensed under the GPL-3.0 License - see the [LICENSE.md](LICENSE.md) file for details.
-```
-
-Make sure to include the GPL-3.0 license file (`LICENSE.md`) in your project repository, which outlines the terms and conditions of the license.
